@@ -3,6 +3,14 @@
 This project presents a **conceptual design for an AR-powered shopping assistant**, built in Figma.  
 The prototype illustrates how advanced technologies can be combined to create a smarter, safer, and more engaging shopping experience.  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmjadAzward/Emerging-Technology-powered-Shopping-App/main/Shopping%20App/Images/01.png" width="250" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AmjadAzward/Emerging-Technology-powered-Shopping-App/main/Shopping%20App/Images/02.png" width="250" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AmjadAzward/Emerging-Technology-powered-Shopping-App/main/Shopping%20App/Images/03.png" width="250" />
+</p>
+
 ---
 
 ## Core Innovations
