@@ -6,7 +6,7 @@ The prototype illustrates how advanced technologies can be combined to create a 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AmjadAzward/Emerging-Technology-powered-Shopping-App/main/Shopping%20App/Images/01.png" width="250" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/AmjadAzward/Emerging-Technology-powered-Shopping-App/main/Shopping%20App/Images/02.png" width="250" />
+  <img src="https://raw.githubusercontent.com/AmjadAzward/Emerging-Technology-powered-Shopping-App/main/Shopping%20App/Images/04.png" width="250" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/AmjadAzward/Emerging-Technology-powered-Shopping-App/main/Shopping%20App/Images/03.png" width="250" />
 </p>
