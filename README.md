@@ -1,4 +1,4 @@
-# Emerging-Technology-powered-Shopping-App
+# Emerging Technology Powered Shopping App
 
 This project presents a **conceptual design for an AR-powered shopping assistant**, built in Figma.  
 The prototype illustrates how advanced technologies can be combined to create a smarter, safer, and more engaging shopping experience.  
